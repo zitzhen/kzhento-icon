@@ -1,3 +1,3 @@
-# kzhrnto-icon
+# kzhento-icon
 
 ![kzhento](kzhento.png)
